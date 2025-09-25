@@ -10,7 +10,7 @@
 - Easy to extend with persistence localStorage  and styling (Tailwind)
 
 ## Demo
-- Local dev: start the app and open `https://to-do-list-psi-dusky.vercel.app/`
+  open `https://to-do-list-psi-dusky.vercel.app/`
 .
 
 ## Features
