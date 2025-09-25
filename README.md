@@ -7,11 +7,11 @@
 ## Highlights
 - Add, edit, toggle complete, and delete tasks
 - Minimal, componentized React code (hooks-based)
-- Easy to extend with persistence (localStorage or API) and styling (Tailwind)
+- Easy to extend with persistence localStorage  and styling (Tailwind)
 
 ## Demo
 - Local dev: start the app and open `http://localhost:3000`
-- Add a screenshot or GIF to `public/screenshot.png` and it will render above.
+.
 
 ## Features
 - Create tasks using a single input
@@ -68,7 +68,6 @@ npm test -- --run
 3. Commit: `git commit -m "Add feature"`
 4. Push and open a PR
 
-Please keep PRs small and focused. Include screenshots if UI changes.
 
 ## License
 MIT — see the `LICENSE` file.
